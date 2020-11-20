@@ -3,3 +3,4 @@ A server side example for wordpress on how to integrate Contact Form 7 Plugin wi
 
 ## Back-end Validation
 Copy the code in this repo into the `functions.php` of your active theme.
+Replace the `put-your-secret-in-here` with your own secret.
