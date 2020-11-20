@@ -1,3 +1,5 @@
+<?php
+
 add_filter( 'wpcf7_validate', 'friendly_captcha_validate', 10, 2 );
 
 function friendly_captcha_validate ( $result, $tags ) {
@@ -27,3 +29,4 @@ function httpPost($url, $data){
     curl_close($curl);
     return $response;
 }
+
