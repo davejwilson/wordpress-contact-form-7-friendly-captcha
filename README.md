@@ -1,2 +1,2 @@
-# wordpress-contact-form-7-friendly-captcha
-A server side example for wordpress to integrate contact form 7 plugin with friendly capture
+# Wordpress - Contact Form-7 - Friendly Captcha Integration
+A server side example for wordpress on how to integrate Contact Form 7 Plugin with Friendly Captcha
